@@ -13,7 +13,7 @@
 
 **JavaScript**
 
-- 📰 [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.67zv7q7wa)
+- 📰 [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.67zv7q7wa) :postbox:
 - 📰 [Optimization tricks in V8](https://blog.ghaiklor.com/optimizations-tricks-in-v8-d284b6c8b183#.5yey0f4v9)
 - 📰 [Profiling Node applications](https://blog.ghaiklor.com/profiling-nodejs-applications-1609b77afe4e#.64ywufy0n)
 - 📰 [Tracing de-optimizations in Node](https://blog.ghaiklor.com/tracing-de-optimizations-in-nodejs-2ba16900fc6f#.xz8dtlmak)
@@ -57,13 +57,13 @@
 
 **PHP**
 
-- 📰 [PHP: The right way](http://www.phptherightway.com/)
-- 🎬 [Refactoring to Symfony Components](https://www.youtube.com/watch?v=Aq5Hi6PasFg)
+- 📰 [PHP: The right way](http://www.phptherightway.com/) :shipit:
+- 🎬 [Refactoring to Symfony Components](https://www.youtube.com/watch?v=Aq5Hi6PasFg) :postbox:
 - 📰 [PHP is the right tool for the job (for all the wrong reasons)](http://blog.samuellevy.com/post/41-php-is-the-right-tool-for-the-job-for-all-the-wrong-reasons.html)
 - 📰 [Symfony vs. Flat PHP](http://symfony.com/doc/2.0/book/from_flat_php_to_symfony2.html)
 - 📰 [Create your own framework... on top of Symfony components](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-1.html)
 - 📰 [Why `mysql_real_escape_string()` isn't enough](http://www.dreamincode.net/forums/blog/1735/entry-3958-why-mysql-real-escape-string-isnt-enough/)
-- 📰 [Cropping images based on their entropy](https://codegeekz.com/cropping-images-entrop/)
+- 📰 [Cropping images based on their entropy](https://codegeekz.com/cropping-images-entrop/) :shipit:
 
 --
 
@@ -96,7 +96,7 @@
 
 **Algorithms**
 
-- 📰 [How Reddit's ranking algorithms work](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9#.ru9aoukau)
+- 📰 [How Reddit's ranking algorithms work](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9#.ru9aoukau) :postbox:
 - 📰 [Long short-term memory recurrent neural network in Python](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 - 🎬 [Can we build AI without losing control over it?](http://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it#t-706132)
 
@@ -125,7 +125,7 @@
 **Psychology**
 
 - 🎬 [About "meta" work (and wasting time)](https://www.youtube.com/watch?v=dIjKJjzRX_E)
-- 🎬 [The Science Behind Shaping Player Behavior in Online Games](http://gdcvault.com/play/1017940/The-Science-Behind-Shaping-Player)
+- 🎬 [The Science Behind Shaping Player Behavior in Online Games](http://gdcvault.com/play/1017940/The-Science-Behind-Shaping-Player) :postbox:
 - 📚 [The passionate programmer](https://www.amazon.co.uk/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344)
 - 📚 [Time management for developers (German)](http://www.amazon.de/Zeitmanagement-f%C3%BCr-Webentwickler-Thomas-Steglich/dp/3897218828)
 - 📰 [Stop saying learning to code is easy](http://www.hanselman.com/blog/StopSayingLearningToCodeIsEasy.aspx)
